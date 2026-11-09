@@ -1,0 +1,3 @@
+[console_scripts]
+hapticstream = hapticstream.app:main
+hapticstream-test = hapticstream.demo:main
