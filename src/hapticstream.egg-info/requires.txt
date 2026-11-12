@@ -3,3 +3,4 @@ PyAudioWPatch
 mss
 numpy
 dxcam
+aubio-ledfx

@@ -8,3 +8,4 @@ Requires-Dist: PyAudioWPatch
 Requires-Dist: mss
 Requires-Dist: numpy
 Requires-Dist: dxcam
+Requires-Dist: aubio-ledfx

@@ -2,11 +2,13 @@ README.md
 pyproject.toml
 src/hapticstream/__init__.py
 src/hapticstream/app.py
+src/hapticstream/audio_analysis.py
 src/hapticstream/audio_capture.py
 src/hapticstream/audio_monitor.py
 src/hapticstream/demo.py
 src/hapticstream/screen_capture.py
 src/hapticstream/screen_monitor.py
+src/hapticstream/tempo_tracker.py
 src/hapticstream/xinput.py
 src/hapticstream.egg-info/PKG-INFO
 src/hapticstream.egg-info/SOURCES.txt
